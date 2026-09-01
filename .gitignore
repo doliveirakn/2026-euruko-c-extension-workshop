@@ -1,0 +1,13 @@
+*.bundle
+*.so
+*.dylib
+*.o
+*.log
+**/ext/**/Makefile
+exercise1-hello-world/ext/hello/extconf.rb
+**/ext/**/mkmf.log
+**/ext/**/*.bundle*
+**/ext/**/.*.c
+.bundle/
+vendor/
+Gemfile.lock
