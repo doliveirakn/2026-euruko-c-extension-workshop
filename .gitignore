@@ -1,0 +1,10 @@
+*.bundle
+*.so
+*.dylib
+*.o
+*.log
+**/ext/**/Makefile
+**/ext/**/mkmf.log
+.bundle/
+vendor/
+Gemfile.lock
